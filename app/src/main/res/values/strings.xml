@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_main">Countries</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="error_msg_network">Not Internet Connection</string>
+    <string name="error_msg_database">Something went wrong</string>
+    <string name="prefs_access_token">access_token</string>
+    <string name="prefs_token">prefs_token</string>
+    <string name="error">An error happened</string>
+    <string name="retry">Retry</string>
+    <string name="location_empty">Please, provide a country name for search</string>
+    <string name="loading">Loading... Please wait...</string>
+</resources>
